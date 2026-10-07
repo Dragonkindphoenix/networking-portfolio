@@ -1,0 +1,14 @@
+title: "Dragonkind's Networking Portfolio"
+description: "CompTIA Network+ learning journal, networking labs, technical documentation, and Git/GitHub practice."
+url: "https://dragonkindphoenix.github.io"
+baseurl: "/networking-portfolio"
+theme: minima
+author: Dragonkindphoenix
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+
+show_excerpts: true
