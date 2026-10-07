@@ -1,5 +1,5 @@
-title: "Dragonkind's Networking Portfolio"
-description: "CompTIA Network+ learning journal, networking labs, technical documentation, and Git/GitHub practice."
+title: "Dragonkind's Network Forge"
+description: "A dark-mode networking portfolio: CompTIA Network+ labs, infrastructure notes, troubleshooting, security, and technical projects."
 url: "https://dragonkindphoenix.github.io"
 baseurl: "/networking-portfolio"
 theme: minima
