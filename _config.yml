@@ -1,9 +1,9 @@
-title: "Dragonkind's Network Forge"
+title: "Daniel Williams | Network Forge"
 description: "A dark-mode networking portfolio: CompTIA Network+ labs, infrastructure notes, troubleshooting, security, and technical projects."
 url: "https://dragonkindphoenix.github.io"
 baseurl: "/networking-portfolio"
 theme: minima
-author: Dragonkindphoenix
+author: Daniel Williams
 
 header_pages:
   - about.md
@@ -12,3 +12,4 @@ plugins:
   - jekyll-feed
 
 show_excerpts: true
+

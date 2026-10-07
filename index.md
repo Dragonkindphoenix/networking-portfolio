@@ -4,7 +4,7 @@ title: Network Forge
 ---
 
 <div class="network-forge">
-  <div class="forge-kicker">DRAGONKINDPHOENIX // NETWORK SYSTEMS</div>
+  <div class="forge-kicker">DANIEL WILLIAMS // NETWORK SYSTEMS</div>
   <h1 class="forge-title">Build it. Break it. Understand it. Rebuild it better.</h1>
   <p class="forge-subtitle">
     This is my working networking portfolio: a record of the systems, labs, failures, fixes, and technical skills I am forging while building deeper capability in networking, infrastructure, security, and automation.
@@ -43,3 +43,4 @@ Current areas of focus include:
 ## Latest Field Notes
 
 The posts below document the work as it develops.
+
